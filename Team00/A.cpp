@@ -3,7 +3,7 @@
 
 void APrint()
 {
-	printf( "X\n" ) ;
+	printf( "Z\n" ) ;
 }
 
 
